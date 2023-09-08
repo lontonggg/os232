@@ -1,3 +1,7 @@
+---
+permalink: LINKS/
+---
+
 # LINKS
 
 1. [One](https://en.wikipedia.org/wiki/1)<br>
