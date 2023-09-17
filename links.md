@@ -8,3 +8,5 @@ permalink: LINKS/
     This is an interesting article about the introductions into operating systems which are good for new learners.
 2. [What is Virtualization?](https://www.techtarget.com/searchitoperations/definition/virtualization)
     A great article by Tech Target about how virtualization works, types of virtualization, benefits of virtualizations, etc.
+3. [Computer Security](https://its.ucsc.edu/security/training/docs/intro.pdf)
+    A great introduction into computer security made by University of California Santa Cruz.
