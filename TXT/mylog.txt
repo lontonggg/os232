@@ -17,3 +17,11 @@ ZCZC W01 10 L03 Github related
 ZCZC W01 10 L04 Github Pages related
 ZCZC W01 120 L05 Studying and quiz related
 ZCZC W01 300 L11 Trying to finish assignment week 01
+
+ZCZC W02 20   L00 General, etc.
+ZCZC W02 20   L01 SCELE related
+ZCZC W02 200  L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 30   L03 GitHub related
+ZCZC W02 15   L04 GitHub Pages related
+ZCZC W02 100  L05 Quiz related including studying
+ZCZC W02 240  L12 Trying to finish assignment week 02
