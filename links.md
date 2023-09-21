@@ -10,3 +10,5 @@ permalink: LINKS/
     A great article by Tech Target about how virtualization works, types of virtualization, benefits of virtualizations, etc.
 3. [Computer Security](https://its.ucsc.edu/security/training/docs/intro.pdf)
     A great introduction into computer security made by University of California Santa Cruz.
+4. [File Systems](https://www.geeksforgeeks.org/file-systems-in-operating-system/)
+    An intresting article that gives a great explanation about file systems in operating system.
