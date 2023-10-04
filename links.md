@@ -12,3 +12,5 @@ permalink: LINKS/
     A great introduction into computer security made by University of California Santa Cruz.
 4. [File Systems](https://www.geeksforgeeks.org/file-systems-in-operating-system/)
     An intresting article that gives a great explanation about file systems in operating system.
+5. [Pointers and Arrays in Linux C Programming](https://www.howtoforge.com/linux-c-programming-tutorial-part-19-pointers-and-arrays/#:~:text=Pointers%20are%20a%20special%20kind,store%20an%20address%20into%20it.)
+   This article gives an excellent tutorial about pointers and arrays in Linux C programming.
