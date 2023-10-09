@@ -19,7 +19,7 @@ Week 1
    
 Week 2
 
-4. [Computer Security](https://its.ucsc.edu/security/training/docs/intro.pdf)
+3. [Computer Security](https://its.ucsc.edu/security/training/docs/intro.pdf)
 
     A great introduction into computer security made by University of California Santa Cruz.
     
