@@ -44,4 +44,7 @@ Week 5
 7. [Memory Allocation Algorithm](https://www.youtube.com/watch?v=10vroQb5IdY)
    
     This video explains various memory allocation algorithms used in operating systems, including First Fit, Best Fit, Worst Fit, Buddy System, and Next Fit. It provides animated demonstrations and examples to help me understand how each algorithm works.
-   
+
+8. [Paging in Operating System](https://www.geeksforgeeks.org/paging-in-operating-system/)
+
+    This article discusses the concept of paging in operating systems as a memory management scheme that eliminates the need for contiguous allocation of physical memory. It explains how paging divides both the logical address space and physical address space into fixed-size blocks or pages, allowing for efficient memory allocation, reduced internal fragmentation, and the protection and sharing of memory between processes.
