@@ -63,3 +63,16 @@ This article explains the importance of the fork system call for creating new pr
 
 This article delineates the differences between the fork and exec system calls, highlighting how fork creates a new duplicate process while exec replaces the invoking process with a new one specified in its parameter. Fork generates a child process that executes simultaneously with its parent, whereas exec initiates a new process, replacing the current one entirely.
 
+## Week 07
+
+[Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+
+This article explains the significance of process synchronization in managing shared resources within a multi-process system, addressing race conditions and ensuring data consistency. It explains the critical section problem, solutions like Peterson's algorithm, semaphore usage, and the advantages and drawbacks of process synchronization, emphasizing its necessity for data integrity and the need for careful implementation in multi-process systems.
+
+[Critical Section Problem](https://www.javatpoint.com/os-critical-section-problem)
+
+The article explains the critical section problem in operating systems, emphasizing the need for protocols to ensure mutual exclusion, progress, and bounded waiting to prevent race conditions among cooperative processes trying to access shared resources. It highlights the requirements of synchronization mechanisms, emphasizing architectural neutrality for universal compatibility across different system architectures.
+
+[Deadlock in Operating System](https://www.guru99.com/deadlock-in-operating-system.html)
+
+The topic of this article is about deadlock, a situation in an operating system where processes wait for resources held by others, elaborating on circular wait scenarios and strategies like detection, prevention, and avoidance algorithms to handle or avoid such conditions. It explains deadlock as a scenario in which processes are stuck waiting for resources held by others, particularly emphasizing circular wait conditions. The article also covers strategies like deadlock detection, prevention, and avoidance algorithms to manage or circumvent such situations, illustrating the differences between deadlock and starvation in an operating system.
