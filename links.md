@@ -76,3 +76,17 @@ The article explains the critical section problem in operating systems, emphasiz
 [Deadlock in Operating System](https://www.guru99.com/deadlock-in-operating-system.html)
 
 The topic of this article is about deadlock, a situation in an operating system where processes wait for resources held by others, elaborating on circular wait scenarios and strategies like detection, prevention, and avoidance algorithms to handle or avoid such conditions. It explains deadlock as a scenario in which processes are stuck waiting for resources held by others, particularly emphasizing circular wait conditions. The article also covers strategies like deadlock detection, prevention, and avoidance algorithms to manage or circumvent such situations, illustrating the differences between deadlock and starvation in an operating system.
+
+## Week 08
+
+[CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
+
+A great article that introduces Scheduling in Operating Systems. CPU Scheduling is a process that allows one process to use the CPU while another process is delayed (in standby) due to unavailability of any resources such as I / O etc, thus making full use of the CPU.
+
+[CPU Burst](https://koordinator.sh/docs/user-manuals/cpu-burst/)
+
+This article explains about CPU Burst. CPU Burst is a service level objective (SLO)-aware resource scheduling feature provided by Koordinator. You can use CPU Burst to improve the performance of latency-sensitive applications. 
+
+[Two State Process Model in Operating System](https://www.javatpoint.com/two-state-process-model-in-operating-system)
+
+This is in an interesting article that explains about the Two State Process Model in Operating Systems. The simplest model in the process state will be a two-state model as it consists of only two states that are given below: Running State- A state in which the process is currently being executed. Not Running State- A state in which the process is waiting for execution.
