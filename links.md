@@ -90,3 +90,17 @@ This article explains about CPU Burst. CPU Burst is a service level objective (S
 [Two State Process Model in Operating System](https://www.javatpoint.com/two-state-process-model-in-operating-system)
 
 This is in an interesting article that explains about the Two State Process Model in Operating Systems. The simplest model in the process state will be a two-state model as it consists of only two states that are given below: Running State- A state in which the process is currently being executed. Not Running State- A state in which the process is waiting for execution.
+
+## Week 09
+
+[RAID (Redundant Array of Independent Disks)](https://www.techtarget.com/searchstorage/definition/RAID#:~:text=Brien%20Posey-,What%20is%20RAID%3F,case%20of%20a%20drive%20failure.)
+
+An interesting article that explains about RAID. RAID (Redundant Array of Independent Disks) is a way of storing the same data in different places on multiple hard disks or solid-state drives (SSDs) to protect data in the case of a drive failure.
+
+[NVMe vs SSD vs HDD – Overview and Comparison](https://unihost.com/help/nvme-vs-ssd-vs-hdd-overview-and-comparison/)
+
+This article explains the differences between NVMe, SSD, and HDD storage.
+
+[Swap-Space Management in Operating System](https://www.javatpoint.com/swap-space-management-in-operating-system#:~:text=Uses%20of%20Swap%20Space&text=Swapping%20is%20a%20memory%20management,main%20memory%20for%20continued%20execution.)
+
+A great article that explains about Swap-Space Management. Swap-space management is another low-level task of the operating system. Virtual memory uses disk space as an extension of main memory. Since disk access is much slower than memory access, using swap space significantly decreases system performance.
