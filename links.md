@@ -104,3 +104,18 @@ This article explains the differences between NVMe, SSD, and HDD storage.
 [Swap-Space Management in Operating System](https://www.javatpoint.com/swap-space-management-in-operating-system#:~:text=Uses%20of%20Swap%20Space&text=Swapping%20is%20a%20memory%20management,main%20memory%20for%20continued%20execution.)
 
 A great article that explains about Swap-Space Management. Swap-space management is another low-level task of the operating system. Virtual memory uses disk space as an extension of main memory. Since disk access is much slower than memory access, using swap space significantly decreases system performance.
+
+## Week 10
+
+[I/O Hardware](https://www.tutorialspoint.com/operating_system/os_io_hardware.htm)
+
+This article gives great explanation about I/O hardware. One of the important jobs of an Operating System is to manage various I/O devices including mouse, keyboards, touch pad, disk drives, display adapters, USB devices, Bit-mapped screen, LED, Analog-to-digital converter, On/off switch, network connections, audio I/O, printers etc.
+
+[Kernel I/O Subsystem](https://www.geeksforgeeks.org/kernel-i-o-subsystem-in-operating-system/)
+
+A great article that explains about Kernel I/O Subsystem in Operating System. The kernel provides many services related to I/O. Several services such as scheduling, caching, spooling, device reservation, and error handling – are provided by the kernel’s I/O subsystem built on the hardware and device-driver infrastructure.
+
+[Kernotex's Linux From Scratch Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315)
+
+A very-very great playlist that contains videos from Kernotex that gives a very detailed and helpful tutorial on how to build a Linux From Scratch.
+
